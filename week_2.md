@@ -1,6 +1,6 @@
 # About scikit_image
 
-Skimage is an image manipulation open source library programmed by hundreds of people all over the globe. It is used for research to help scientists analyse their results.
+Skimage is an image manipulation open source library programmed by hundreds of people all over the globe. It is used in research to help scientists analyse their results.
 
 # Our contribution
 
